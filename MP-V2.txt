@@ -42,8 +42,3 @@ Suspicion => 怀疑 (2022)
 Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
-
-# 电视剧匹配：仅当文件名含 SxxExx 时才处理
-S\d{2}E\d{2} <> .* >> 0 && {[type=tv]}
-# 电影默认处理：未匹配电视剧的文件归电影
-.* => {[type=movie]}
