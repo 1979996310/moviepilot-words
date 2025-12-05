@@ -1,3 +1,5 @@
+Coeurs.Noirs => 黑暗之心
+外传 为美好的世界献上爆焰! => 为美好的世界献上爆焰！ (2023)
 The.Yangtze.Rive => 再会长江 (2022)
 Once.Upon.a.Time => 童话镇 (2011)
 TheLongNight => 沉默的真相 (2020)
@@ -34,7 +36,6 @@ Chun.Tian.Hou.Mu.Xin => 春天后母心
 응답하라 => 请回答1988
 应答ハロ 1988 => 请回答1988
 Çarpıntı => 焕羽 (2025)
-Reborn => 焕羽 (2025)
 Suspicion => 怀疑 (2022)
 Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
