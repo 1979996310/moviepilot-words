@@ -1,3 +1,9 @@
+#从前有个刺客 (2025)
+Nero the Assassin => 从前有个刺客 (2025)
+#变形金刚：超能勇士
+BeastiesTransformers => 变形金刚：超能勇士
+#东京爱情故事 (1991) 
+TokyoLoveStory => 东京爱情故事 (1991) 
 # 拜见岳父大人
 Meet the Parents => 拜见岳父大人{[tmdbid=1597;type=movie]}
 Meet.The.Parents => 拜见岳父大人{[tmdbid=1597;type=movie]}
