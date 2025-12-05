@@ -1,3 +1,5 @@
+#喜羊羊与灰太狼之发明大作战
+Pleasant.Goat.and.Big.Big.Wolf.War.of.Invention => 喜羊羊与灰太狼之发明大作战
 #前目的地
 Fantalos => 前目的地 (2014)
 #从前有个刺客 (2025)
@@ -55,5 +57,3 @@ Podezření => 怀疑 (2022)
 #毕有财
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
-#喜羊羊与灰太狼之发明大作战
-Pleasant Goat and Big Big Wolf War of Invention => 喜羊羊与灰太狼之发明大作战
