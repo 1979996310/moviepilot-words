@@ -50,6 +50,7 @@ Suspicion => 怀疑 (2022)
 Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
+10-bit => 10bit
 粤国英台 => 国粤英台
 粤国台英 => 国粤英台
 粤英国台 => 国粤英台
