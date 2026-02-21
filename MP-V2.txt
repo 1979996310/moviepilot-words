@@ -1,8 +1,5 @@
-
 天の翼
 百度云盘下载
-高码率 => HQ
-高码 => HQ
 权游 => 权利的游戏
 Pluribus => 同乐者
 Yū.Yū.Hakusho.Episode => 幽游白书
@@ -56,6 +53,8 @@ Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
 #识别词规范
+高码率 => HQ
+高码 => HQ
 10-bit => 10bit
 #音轨识别
 粤国英台 => 国粤英台
