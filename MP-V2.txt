@@ -111,6 +111,7 @@ wpzybns
 zixh66
 film.cc
 eu.org
+#影视识别辅助
 权游 => 权利的游戏
 Pluribus => 同乐者
 Yū.Yū.Hakusho.Episode => 幽游白书
@@ -164,6 +165,8 @@ Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
 #识别词规范
+杜比视界 => -DoVi-
+杜比 => -DoVi-
 高码率 => HQ
 高码 => HQ
 10-bit => 10bit
