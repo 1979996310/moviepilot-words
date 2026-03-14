@@ -164,7 +164,9 @@ Podezření => 怀疑 (2022)
 Bi.You.Cai => 毕有财
 BiYouCai => 毕有财
 #识别词规范
+mkv
 杜比视界 => -DoVi-
+原盘 => -Remux-
 杜比 => -DoVi-
 高码率 => HQ
 高码 => HQ
